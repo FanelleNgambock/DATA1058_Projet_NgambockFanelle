@@ -6,6 +6,7 @@
 #include "Led.hpp"
 #include "Luminosite.hpp"
 #include "Steam.hpp"
+// declaration des variables
 
 Adafruit_CCS811 ccs;
 
